@@ -16,7 +16,7 @@ Example taken from [http://arduino.cc/en/Tutorial/WebServer](http://arduino.cc/e
 
 ### Code:
 
-~~~ cpp
+{% highlight cpp %}
 /*
   Web Server
 
@@ -117,4 +117,4 @@ void loop() {
     Serial.println("client disconnected");
   }
 }
-~~~
+{% endhighlight %}
